@@ -1,5 +1,6 @@
+KARTBLOCK
 
-Kartblock (“KBT”)  The Kart Block ecosystem at its core is a combination of e-commerce platform, digital wallet, and Tokenized reward mechanism. A simple yet powerful idea behind this ecosystem is directly rewarding the customers/users for their valuable contribution to the Kart Block platform, without the need for any middlemen. This reward will be in the form of a cryptocurrency (Kart Block Token).
+The Kart Block ecosystem at its core is a combination of e-commerce platform, digital wallet, and Tokenized reward mechanism. A simple yet powerful idea behind this ecosystem is directly rewarding the customers/users for their valuable contribution to the Kart Block platform, without the need for any middlemen. This reward will be in the form of a cryptocurrency (Kart Block Token).
 
 
 Token Name:	Kartblock Token
